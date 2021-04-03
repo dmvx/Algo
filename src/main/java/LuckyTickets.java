@@ -3,7 +3,7 @@ import com.google.common.math.BigIntegerMath;
 import java.math.BigInteger;
 
 /*
-  Для расчета кол-ва счастливых билетов используем формулу
+  Для расчета количества счастливых билетов используем формулу
   Sum{i=0..n-1} (-1)^i * binomial(2n,i) * binomial(11n-1-10i,2n-1)
 */
 class luckyTickets {
