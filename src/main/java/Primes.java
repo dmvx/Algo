@@ -102,6 +102,7 @@ public class Primes {
         return q;
     }
 
+
     //С использованием алгоритма Эрастофена оптимизированного по битовому массиву вместо boolean
     public int getPrimesEratosthenByteArray(int n){
 
