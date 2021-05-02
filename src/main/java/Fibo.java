@@ -3,7 +3,6 @@ import org.decimal4j.util.DoubleRounder;
 import java.math.BigInteger;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
-import java.math.*;
 
 //Число Фибоначи
 
