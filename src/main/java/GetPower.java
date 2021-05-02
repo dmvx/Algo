@@ -1,6 +1,5 @@
 import org.decimal4j.util.DoubleRounder;
 import java.math.BigDecimal;
-import java.math.MathContext;
 import java.math.RoundingMode;
 //Возведение в степпень
 
