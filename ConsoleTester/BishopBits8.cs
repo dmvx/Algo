@@ -17,6 +17,7 @@ namespace ConsoleTester
         {
 
             int x = n;
+
             ulong K = 1UL << x;
 
             ulong M = 0;

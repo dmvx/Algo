@@ -2,7 +2,7 @@
 
 namespace ConsoleTester
 {
-    //Конь
+    //Конь 
     public class KnightBits8 : ITask
     {
         
