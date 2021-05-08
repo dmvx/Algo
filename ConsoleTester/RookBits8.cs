@@ -2,6 +2,7 @@
 
 namespace ConsoleTester
 {
+    //Ладья
     public class RookBits8 : ITask
     {
 

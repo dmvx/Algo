@@ -2,6 +2,7 @@
 
 namespace ConsoleTester
 {
+    //Слон 
     public class BishopBits8 : ITask
     {
 

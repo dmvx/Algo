@@ -2,6 +2,7 @@
 
 namespace ConsoleTester
 {
+    //Ферзь
     public class QueenBits8 : ITask
     {
 

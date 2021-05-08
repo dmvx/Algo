@@ -2,9 +2,10 @@
 
 namespace ConsoleTester
 {
+    //Конь
     public class KnightBits8 : ITask
     {
-
+        
         public string Run(string[] data)
         {
             int n = Convert.ToInt32(data[0]);
